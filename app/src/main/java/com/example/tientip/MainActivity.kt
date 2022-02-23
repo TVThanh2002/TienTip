@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         val stringInText = binding.editTextDichVu.text.toString()
         val giaTien = stringInText.toDoubleOrNull()
         if(giaTien==null){
-            binding.textViewKetQua.text = "5"
+            binding.textViewKetQua.text = ""
             return
         }
         val selectButton = binding.groupButton.checkedRadioButtonId
