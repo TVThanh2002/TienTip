@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TienTip</string>
+    <string name="tuyetvoi">Tuyệt vời (20%)</string>
+    <string name="lamtrontip">làm tròn tiền tip</string>
+    <string name="ketqua">kết quả: %s</string>
+    <string name="chiphidichvu">Chi phí dịch vụ</string>
+    <string name="d_ch_v_nh_th_n_o">Dịch vụ như thế nào</string>
+    <string name="t_t_18">Tốt (18%)</string>
+    <string name="t_m_c_15">Tạm được (15%)</string>
+    <string name="t_nh_ti_n">tính tiền</string>
+</resources>
